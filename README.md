@@ -1,9 +1,9 @@
-![logo](./assets/Images/logo.png)
+![logo](./Assets/Images/logo.png)
 
 # Four-Seasons-Adventure
 Hybrid Game : a mix of any 2D Super Mario and The Legend of Zelda: Oracle of Seasons.
 
-![screen](./assets/Images/screen.gif)
+![screen](./Assets/Images/screen.gif)
 
 You need to find a key to open the chest that cointain the gem that will reorganize the proper functioning of the seasons without your power. If you want a better score, you can just collect the coins hided on the all map.
 
